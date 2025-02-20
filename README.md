@@ -87,9 +87,6 @@ Client_Ease_AI/
 │   └── callbacksHandler.js           # Callback scheduler logic
 │
 ├── public/                           # Static assets (images, icons, etc.)
-│   ├── favicon.ico
-│   ├── og-image.png
-│   └── placeholder.svg
 │
 ├── src/                              # Frontend React code
 │   ├── App.tsx                       # Main React App
@@ -126,7 +123,7 @@ Client_Ease_AI/
 1. **Clone the Repository**
     ```bash
     git clone https://github.com/aditya9277/ey-executioners.git
-    cd backend
+    cd server
     ```
 
 2. **Install Dependencies**
@@ -151,7 +148,7 @@ Client_Ease_AI/
 
 ### 🌐 Frontend Setup
 
-1. Navigate to the root directory
+1. **Navigate to the root directory**
   
 
 2. **Install Frontend Dependencies**
